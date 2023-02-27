@@ -76,6 +76,7 @@ i{
     gap: 15px;
     padding-left: 15px;
     border-left: 1px solid #bbb;
+    margin-right: 2px;
 }
 
 .controls .icons i {

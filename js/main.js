@@ -3,7 +3,7 @@ toText = document.querySelector(".to-text"),
 exchangeIcon = document.querySelector(".exchange"),
 selectTag = document.querySelectorAll("select"),
 translateBtn = document.querySelector("button"),
-icons = document.querySelectorAll(".row");
+icons = document.querySelectorAll(".fas");
 
 
 selectTag.forEach((tag, id) =>{
